@@ -41,7 +41,7 @@ Check out my recent work and projects:
 
 ## 📫 Contact Me
 
-- 📧 Email: [divijareddy.naredla@gmail.com](mailto:divijareddy.naredla@gmail.com) / [divija.naredla@sjsu.edu](mailto:divija.naredla@sjsu.edu)
+- 📧 Email: [divijareddy.naredla@gmail.com](mailto:divijareddy.naredla@gmail.com) 
 
 
 
