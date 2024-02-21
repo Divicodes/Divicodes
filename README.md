@@ -13,11 +13,11 @@ I'm a passionate software engineer with a Master's degree in Software Engineerin
 
 ## 🛠 Skills
 
-- **Programming Languages**: Python, C#, Java, JavaScript, C
-- **Web Technologies**: ReactJS, Bootstrap, NodeJS, ExpressJS, HTML, CSS, React Native, Flask, Django
-- **Database and Cloud**: SQL Server, MySQL, MongoDB, Amazon RDS, AWS ECS, GCP, Azure, WebSocket
+- **Programming Languages**: Python, JavaScript, Swift, C#, Java, C
+- **Web Technologies**: ReactJS, Streamlit, Bootstrap, SwiftUI, NodeJS, ExpressJS, HTML, CSS, React Native, Flask, Django
+- **Database and Cloud**: SQL Server, MySQL, MongoDB, AstraDB, Amazon RDS, AWS, GCP, Azure, WebSocket
 - **Tools & Technologies**: Tableau, VSCode, REST API, Postman, SoapUI, Git, JIRA, Figma, Docker, Agile, Scrum
-- **Artificial Intelligence**: GPT-4, LLMs, PaLM-E, PyTorch, TensorFlow, NLP, LangChain, YOLOv8, HuggingFace
+- **Artificial Intelligence**: GPT-4, LLMs, PaLM-E, PyTorch, TensorFlow, NLP, LangChain, YOLOv8, HuggingFace, LlamaIndex, LlamaParse
 
 
 
